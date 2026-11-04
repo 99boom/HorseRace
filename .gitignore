@@ -114,7 +114,6 @@ InitTestScene*.unity*
 .DS_Store
 Thumbs.db
 
-/packages/
 /_ReSharper.Caches/
 
 # .NET / NuGet
